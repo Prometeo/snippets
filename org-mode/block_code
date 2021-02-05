@@ -1,0 +1,8 @@
+# -*- mode: snippet -*-
+# name: block_code
+# key: src
+# group: code
+# --
+#+BEGIN_SRC ${1:lang}
+    $0
+#+END_SRC
